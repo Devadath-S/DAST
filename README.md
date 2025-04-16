@@ -24,14 +24,5 @@ An Arduino-based project designed to automatically orient a solar panel towards 
 
 ## 📐 Circuit Diagram
 
-> _Add a circuit diagram image here if you have one_
-```markdown
-![Circuit Diagram](docs/circuit-diagram.png)
+![Circuit Diagram](Circuit%20Diagram/DAST%20Circuit%20DIagram.png)
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
